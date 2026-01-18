@@ -251,4 +251,5 @@ cat("✓ Data created and cleaned\n")
 cat("✓ Exploratory analysis performed\n")
 cat("✓ Statistical models built\n")
 cat("✓ Key insights generated\n")
+
 cat("✓ Ready for GitHub upload\n")
