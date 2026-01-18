@@ -1,7 +1,7 @@
 # ====================================================
 # DAY 7: ADVANCED MACHINE LEARNING MODELS
 # ====================================================
-# Author: Mosesrash
+# Author: Moussa Rashaideh
 # Project: Global Health Disparities Analysis
 # Date: 2026-01-19
 # ====================================================
