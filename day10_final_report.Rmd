@@ -1,8 +1,26 @@
 markdown
 ---
-title: "Global Health Disparities Analysis"
-subtitle: "Final Project Report - Days 1-10"
-author: "Mosesrash"
+# Global Health Disparities Dashboard
+
+## About
+Interactive dashboard for analyzing health disparities across 150 countries.
+
+## Features
+- Country comparison tool
+- Predictive modeling
+- Regional analysis
+- Data visualization
+
+## Data Sources
+World Bank, WHO, UN Development Data
+
+## Author
+Moussa Rashaideh
+
+## Contact
+- Email: Rashaidehmoussa@icloud.com
+- Phone: 206-566-1154
+- GitHub: github.com/mosesrash
 date: "2026-01-19"
 output:
 html_document:
