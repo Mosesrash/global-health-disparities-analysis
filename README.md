@@ -24,3 +24,17 @@ The project demonstrates interactive data analysis using R Shiny.
 - DT
 
 ## 📁 Project Structure
+app.R # Main Shiny application
+README.md # Project documentation
+LICENSE # MIT License
+
+
+## 📌 Data Notes
+All data used in this project is **simulated for educational purposes** and generated programmatically within the app.
+
+## 👤 Author
+**Moussa Rashaideh**  
+Email: Rashaidehmoussa@icloud.com  
+
+## 📜 License
+This project is licensed under the MIT License.
