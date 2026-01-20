@@ -1,0 +1,18 @@
+global-health-disparities-analysis/
+│
+├── app.R
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── data/
+│   └── README.md          # Explains simulated data
+│
+├── scripts/
+│   └── data_generation.R # Optional: extracted create_data()
+│
+├── docs/
+│   └── project_report.pdf (or .md)
+│
+└── screenshots/
+    └── dashboard_preview.png
